@@ -37,7 +37,7 @@
 
 |Webzone|Name|Repo Address|  
 |-------|----|------------|
-|1|Anupriya|-|
+|1|Anupriya|https://github.com/AnupriyaCH/TASK-01-GIT-1|
 |2|Aleena Reji|https://github.com/aleenareji5/TASK-01-GIT|
 |3|Avanthika|-|
 |4|Atif|-|

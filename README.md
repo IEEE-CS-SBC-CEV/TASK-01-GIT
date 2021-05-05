@@ -20,7 +20,7 @@
 
 |Server Monks|Name|Repo Address|  
 |------------|----|------------|
-|1|Adnan|-|
+|1|Adnan|https://github.com/adnane777/TASK-01-GIT|
 |2|Anuroopa|-|
 |3|Akmal|-|
 |4|Hiba|-|

@@ -48,7 +48,7 @@
 |----------|----|------------|
 |1|Hadiq|-|
 |2|Kiran|https://github.com/kirankrish792/TASK-01-GIT|
-|3|Pravitha|-|
+|3|Pravitha|https://github.com/Pravitha007/TASK-01-GIT|
 |4|Adil|-|
 |5|Greeshma|-|
 |6|Adithya|https://github.com/adithyanandakumar/TASK-01-GIT|

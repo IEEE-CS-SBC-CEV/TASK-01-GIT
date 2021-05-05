@@ -33,7 +33,7 @@
 |2|Hafis|https://github.com/hafiscp/TASK-01-GIT|
 |3|Prathul|-|
 |4|Swathy|-|
-|5|Yazid|-|
+|5|Yazid|https://github.com/yazidanp/TASK-01-GIT|
 
 |Webzone|Name|Repo Address|  
 |-------|----|------------|

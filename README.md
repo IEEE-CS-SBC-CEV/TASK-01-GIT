@@ -21,7 +21,7 @@
 |Server Monks|Name|Repo Address|  
 |------------|----|------------|
 |1|Adnan|https://github.com/adnane777/TASK-01-GIT|
-|2|Anuroopa|-|https://github.com/Anuroopaaa/TASK-01-GIT|
+|2|Anuroopa|https://github.com/Anuroopaaa/TASK-01-GIT|
 |3|Akmal|https://github.com/Akmal-github/TASK-01-GIT|
 |4|Hiba|-|
 |5|Dana|-|

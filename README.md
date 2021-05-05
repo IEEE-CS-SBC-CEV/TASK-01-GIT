@@ -22,7 +22,7 @@
 |------------|----|------------|
 |1|Adnan|https://github.com/adnane777/TASK-01-GIT|
 |2|Anuroopa|-|
-|3|Akmal|-|
+|3|Akmal|https://github.com/Akmal-github/TASK-01-GIT|
 |4|Hiba|-|
 |5|Dana|-|
 |6|Sreeram|-|

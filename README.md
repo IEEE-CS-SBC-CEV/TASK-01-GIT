@@ -15,8 +15,8 @@
 |1|Shahla k|-|
 |2|Akshay M|https://github.com/Akshay-mr/TASK-01-GIT|
 |3|Aswin V|-|
-|4|Ashitha N|-|https://github.com/6-jan/TASK-01-GIT
-|5|Nihad C V|-|
+|4|Ashitha N|-https://github.com/6-jan/TASK-01-GIT
+|5|Nihad C V|-
 
 |Server Monks|Name|Repo Address|  
 |------------|----|------------|

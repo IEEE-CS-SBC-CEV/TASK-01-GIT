@@ -30,7 +30,7 @@
 |Data Pirates|Name|Repo Address|  
 |------------|----|------------|
 |1|Najiya|-|
-|2|Hafis|-|
+|2|Hafis|https://github.com/hafiscp/TASK-01-GIT|
 |3|Prathul|-|
 |4|Swathy|-|
 |5|Yazid|-|

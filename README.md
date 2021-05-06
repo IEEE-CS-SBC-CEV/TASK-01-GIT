@@ -57,6 +57,6 @@
 |-----------|----|------------|
 |1|Nandu krishna|https://github.com/Nandukrishnat/TASK-01-GIT|
 |2|Arjun|-|
-|3|Lisana|-|
+|3|Lisana|https://github.com/llisa/TASK-01-GIT|
 |4|Gayathri|-|
 |5|Nayantara|-|

@@ -14,7 +14,7 @@
 |----------|----|------------|
 |1|Shahla k|-|
 |2|Akshay M|https://github.com/Akshay-mr/TASK-01-GIT|
-|3|Aswin V|-|https://github.com/ASWIN732012/TASK-01-GIT
+|3|Aswin V|https://github.com/ASWIN732012/TASK-01-GIT|
 |4|Ashitha N|-|
 |5|Nihad C V|-|
 
